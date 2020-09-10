@@ -1,0 +1,46 @@
+<resources>
+     <string name="app_name">Convertex</string>
+     <string name="buttonNine">9</string>
+     <string name="buttonEqual">=</string>
+     <string name="buttonDivide">/</string>
+     <string name="buttonSubtract">-</string>
+     <string name="buttonOne">1</string>
+     <string name="buttonTwo">2</string>
+     <string name="buttonThree">3</string>
+     <string name="buttonFour">4</string>
+     <string name="buttonFive">5</string>
+     <string name="buttonSeven">7</string>
+     <string name="buttonSix">6</string>
+     <string name="buttonAdd">+</string>
+     <string name="buttonMultiply">*</string>
+     <string name="buttonEight">8</string>
+     <string name="buttonCancel">CE</string>
+     <string name="Result">0</string>
+     <string name="imageLogo">TODO</string>
+     <string name="res">0</string>
+     <string name="result">TextView</string>
+     <string name="answer">Answer =</string>
+     <string name="buttonDecimal">.</string>
+     <string name="buttonZero">0</string>
+     <string name="buttonPower">^</string>
+     <string name="buttonD0">00</string>
+     <string name="zero">Button</string>
+     <string name="decimal">.</string>
+     <string name="percent">%</string>
+     <string name="xtopower_y">x^​y</string>
+     <string name="cubeRoot">3√</string>
+     <string name="zeroo">0</string>
+     <string name="rootX">√x</string>
+     <string name="power">^</string>
+     <string name="cos">cos</string>
+     <string name="tan">tan</string>
+     <string name="e">e</string>
+     <string name="pie">π</string>
+     <string name="bracket2">)</string>
+     <string name="bracket1">(</string>
+     <string name="log">log</string>
+     <string name="_00">00</string>
+     <string name="sin">sin</string>
+     <string name="ans">Ans:</string>
+     <string name="standard_calculator">Standard Calculator</string>
+</resources>

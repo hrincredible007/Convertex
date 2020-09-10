@@ -17,6 +17,7 @@
          android:layout_marginRight="20dp"
          android:gravity="center"
          android:text="@string/standard_calculator"
+         android:textAllCaps="true"
          android:textColor="#9C4E71"
          android:textSize="28sp"
          android:textStyle="bold"
